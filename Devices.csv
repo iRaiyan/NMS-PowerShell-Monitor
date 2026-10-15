@@ -1,4 +1,0 @@
-DeviceNumber,DeviceName,IPAddress,AlertEmail
-DeviceNumber,DeviceName,IPAddress,AlertEmail
-1,pc1,192.168.1.101,alerts@example.com
-2,pc2,192.168.1.102,alerts@example.com
