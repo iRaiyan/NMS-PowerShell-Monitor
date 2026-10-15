@@ -1,5 +1,4 @@
 DeviceNumber,DeviceName,IPAddress,AlertEmail
-1,pc3,192.168.1.12,"sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in"
-2,pc2,192.168.1.16,"sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in"
-3,pc8,192.168.1.15,"sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in"
-4,pc7,192.168.1.10,"sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in"
+DeviceNumber,DeviceName,IPAddress,AlertEmail
+1,pc1,192.168.1.101,alerts@example.com
+2,pc2,192.168.1.102,alerts@example.com
