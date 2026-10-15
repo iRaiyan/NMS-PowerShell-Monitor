@@ -2,6 +2,12 @@
 # 🌐 NMS PowerShell Monitoring System
 
 <p align="center">
+  <img src="nms-dashboard.png" alt="NMS PowerShell Monitoring System" width="900">
+</p>
+
+
+
+<p align="center">
   <img src="nms-dashboard.png" alt="NMS PowerShell Monitoring Dashboard" width="900">
 </p>
 
