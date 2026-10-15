@@ -32,11 +32,8 @@ Example using placeholder information:
 
 ```csv
 DeviceNumber,DeviceName,IPAddress,AlertEmail
-1	pc3	192.168.1.12	sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in
-2	pc2	192.168.1.16	sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in
-3	pc8	192.168.1.15	sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in
-4	pc7	192.168.1.10	sunasararaiyan20@gmail.com,bhavesh@skillsync.co.in
-<img width="865" height="146" alt="image" src="https://github.com/user-attachments/assets/71daf253-9d72-4a62-b6fe-e17a123c30a8" />
+1,pc1,192.168.1.101,alerts@example.com
+2,pc2,192.168.1.102,alerts@example.com
 ```
 
 Replace the example values with your own authorized device information.
