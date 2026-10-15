@@ -1,4 +1,13 @@
 # 🌐 NMS PowerShell Monitoring System
+# 🌐 NMS PowerShell Monitoring System
+
+<p align="center">
+  <img src="nms-dashboard.png" alt="NMS PowerShell Monitoring Dashboard" width="900">
+</p>
+
+<p align="center">
+  🚀 Monitor • Detect • Notify • Keep Your Network Online
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell&logoColor=white" alt="PowerShell 5.1+">
